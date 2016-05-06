@@ -51,7 +51,7 @@ body{
     font-size: 11px;
 }
 .fool{
-   /* background-color: #f2f2f2;*/
+    background-color: #f2f2f2;
     height: 2000px;
     width: 791px;
     margin: auto
@@ -124,97 +124,7 @@ input[type="text"]{
     display: block;
     font-size: 11px;
     color: #2B587A;
-    border-radius: 4px;
-    padding-left: 5px
-    
-}
-.lev_menu li a:hover{
-    background: #E9EDF1;
-    
-}
-div{
-    display: block;
-}
-.polosa{
-    margin-top: 3px;
-    padding-top: 3px;
-    border-top: 1px solid #E7EAED;
-}
-.content{
-    /*background-color: #f9fcfc;*/
-    height: 2000px;
-    width: 631px;
-    float:right;
-    margin-right: 15px;
-    border: 1px solid #D9E0E7;
-    
-}
-#name{
-    position: relative;
-    font-weight: bold;
-    font-size: 11px;
-    padding: 7px 10px;
-    line-height: 140%;
-    background: #E9EDF1;
-    color: #607387;
-   
-}
-.sosto9nie p{
-    position: absolute;
-    left:585px;
-    top: 7px;
-    color: #AAB7C5;
-        
-        
-}
-.content2{
-    display: block;
-    padding: 10px 10px 0px 10px;
+     
     
     
-}
-#menu{
-    width: 200px;
-    display: block;   
-}
-.red_str{
-    
-    display: block;
-}
-.red_str a{
-    text-decoration: none;
-    padding: 5px 0px;
-    display: block;
-    font-size: 11px;
-    color: #2B587A;
-    border-radius: 2px;
-    padding-left: 6px
-    
-    
-}
-.red_str a:hover{
-    background: #E9EDF1;
-}
-
-.photo img{
-     width: 200px;
-    margin-bottom: 8px;
-}
-.polosa2{
-    margin-top: 4px;
-    padding-top: 4px;
-    border-top: 1px solid #E7EAED;
-}
-.so_mnoi li a{
-    display: block;
-    text-decoration: none;
-    padding: 5px 0px;
-    font-size: 11px;
-    color: #2B587A;
-    border-radius: 2px;
-    padding-left: 6px
-    
-}
-.so_mnoi a:hover{
-    background: #E9EDF1;
 }
